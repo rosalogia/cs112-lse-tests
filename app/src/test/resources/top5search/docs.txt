@@ -1,0 +1,8 @@
+./src/test/resources/top5search/doc1.txt
+./src/test/resources/top5search/doc2.txt
+./src/test/resources/top5search/doc3.txt
+./src/test/resources/top5search/doc4.txt
+./src/test/resources/top5search/doc5.txt
+./src/test/resources/top5search/doc6.txt
+./src/test/resources/top5search/doc7.txt
+./src/test/resources/top5search/doc8.txt
